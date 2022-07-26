@@ -2,7 +2,8 @@
 ### Helps creating signed messages for multiple seeds
 
 #### Usage
-- Clone or install
+- Clone
+- install dependencies with `npm install`
 - open index.js and insert your seeds 
 - change the message and if needed prefix and suffix
 - run and check output
